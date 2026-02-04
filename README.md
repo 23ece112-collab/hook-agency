@@ -28,7 +28,7 @@ A modern, responsive website for Hook Agency built with React, TypeScript, and V
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/hook-agency.git
+git clone https://github.com/23ece112-collab/hook-agency.git
 cd hook-agency
 ```
 
@@ -60,7 +60,7 @@ npm run preview
 
 ## Deployment
 
-This project is deployed on Vercel. Visit the live site at: [Your Vercel URL]
+This project is deployed on Vercel. Visit the live site at: https://hook-agency-kappa.vercel.app
 
 ## Project Structure
 
